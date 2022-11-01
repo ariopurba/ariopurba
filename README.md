@@ -1,5 +1,6 @@
 ### Hey Fellas 👋
 
+### About Me:
 
 - 🔭 I’m currently studying on Sanata Dharma University
 - 🌱 I’m currently learning Machine Learning
