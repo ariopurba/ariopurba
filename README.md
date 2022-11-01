@@ -1,6 +1,6 @@
 ### Hey Fellas 👋
 
-### About Me <a>https://img.icons8.com/ios-glyphs/344/info--v1.png</a>:
+### About Me <a href:https://img.icons8.com/ios-glyphs/344/info--v1.png></a>:
 
 - 🔭 I’m currently studying on Sanata Dharma University
 - 🌱 I’m currently learning Machine Learning
