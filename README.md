@@ -1,4 +1,4 @@
-### Hey Fellas 👋 I'm Ario Tua Purba
+<h3 align="center"> Hey Fellas 👋 I'm Ario Tua Purba</h3>
 
 ### About Me :
 
