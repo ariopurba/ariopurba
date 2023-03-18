@@ -10,4 +10,4 @@
 <br>
 ### 👨🏻‍💻 Laptop in use
 <hr>
-<img src="https://www.lenovo.com/medias/thinkpad-icon.png?context=bWFzdGVyfHJvb3R8MTk4NHxpbWFnZS9wbmd8aDgyL2g0My85MzkxMzgxODA3MTM0LnBuZ3w3M2E3MWQzMGNjZTFjOWQ2MTFkOTRmZTM0OTFhMzM1MTRlYjRjYjc0ZDcyOWUzZTM3ZTRiZmU2ODU0OTMwYTZk)"/> 
+<img src="https://www.lenovo.com/medias/thinkpad-icon.png?context=bWFzdGVyfHJvb3R8MTk4NHxpbWFnZS9wbmd8aDgyL2g0My85MzkxMzgxODA3MTM0LnBuZ3w3M2E3MWQzMGNjZTFjOWQ2MTFkOTRmZTM0OTFhMzM1MTRlYjRjYjc0ZDcyOWUzZTM3ZTRiZmU2ODU0OTMwYTZk)" target="_blank"/> 
