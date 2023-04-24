@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hola Folks<br>I'm Ario Tua Purba
-- I’m currently studying on Sanata Dharma University
+Hola Folks<br>Ario Tua Purba Here, currently studying on Sanata Dharma University
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ario.purba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ario-tua-purba-606097148/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ArioTuaPurba) 
