@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>💫 About Me:</h1>
-  <p>Hola Folks<br>Ario Tua Purba Here</p>
+  <p>Hola Folks<br>Ario Here</p>
 
   <div style="display: flex; justify-content: center;">
     <img src="https://media.giphy.com/media/eBCcn1FpuONbtBqocd/giphy.gif" alt="Image" />
