@@ -15,7 +15,7 @@
 <!-- </div> -->
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ua7zl6vpc53c8l038kc2u26xr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ua7zl6vpc53c8l038kc2u26xr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/ua7zl6vpc53c8l038kc2u26xr)
 </div> 
 <p align="center"><em>“That's what the world is, after all: an endless battle of contrasting memories.”</em><br>
 ― Haruki Murakami, <strong>1Q84</strong></p>
